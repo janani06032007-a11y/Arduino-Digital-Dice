@@ -62,3 +62,8 @@ Whenever the user presses a push button, the system generates a random number be
 Janani Arjunan
 
 Electronics and Communication Engineering (ECE)
+ Wokwi Simulation
+
+Click below to try my working Digital Dice project:
+
+"🎲 Run Digital Dice Simulation" https://wokwi.com/projects/476840761931949057
